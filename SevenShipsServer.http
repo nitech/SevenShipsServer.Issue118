@@ -1,0 +1,6 @@
+@SevenShipsServer_HostAddress = http://localhost:5174
+
+GET {{SevenShipsServer_HostAddress}}/ships/
+Accept: application/json
+
+###
